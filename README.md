@@ -42,7 +42,7 @@ Since I'm a bit lazy, I'm not writing the tutorial. I may do it one day but not 
 
 ## À propos
 
-Il s’agit d’un dépôt où je télécharge mes thèmes personnalisés pour vous permettre de les télécharger sur votre Upsilon / Omega os.
+Il s’agit d’un dépôt où je télécharge mes thèmes personnalisés pour vous permettre de les télécharger sur votre os Upsilon / Omega.
 
 Il y a un thème :
 * Astra Dark (« astra_dark »)
