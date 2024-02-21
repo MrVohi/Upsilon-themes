@@ -9,6 +9,14 @@ This is a repository where I upload my custom themes to let you download them on
 There is 1 theme:
 * Astra Dark (`astra_dark`)
 
+## Common knowledge
+
+What you are downloading is in fact, a custom build of the Upsilon firmware. It means that it will work by itself and replace any firmware that is found on the slot you want to upload it to. There is not risk don't worry.
+
+If you are on Epsilon without any modification, I am not sure that uploading a custom theme will work. You may want to ask here https://discord.gg/omega-community-663420259851567114 for help. 
+
+For any problem, you can open an issue or open a post in the #help thread here : https://discord.gg/omega-community-663420259851567114 [recommended].
+
 ## Installation
 
 It is quite simple to install a custom theme: 
@@ -25,7 +33,7 @@ It is quite simple to install a custom theme:
 
 6. Use the `Flash Slot A` or `Flash Slot B` button (depends which file you choose earlier)
 
-7. After the end of the upload, it is finished! Just click reset again and load the slot you just flashed.
+7. After the end of the upload, it is finished! There is nothing else to do! Just click reset again and load the slot you just flashed.
 
 8. [Bonus] If you want to install the wallpaper that comes with the theme, go on https://upsilonnumworks.github.io/Upsilon-External/  
 
@@ -46,6 +54,14 @@ Il s’agit d’un dépôt où je télécharge mes thèmes personnalisés pour v
 
 Il y a un thème :
 * Astra Dark (« astra_dark »)
+
+## Connaissance à avoir
+
+Ce que vous téléchargez est en fait une version personnalisée du firmware Upsilon. Cela signifie qu’il fonctionnera tout seul et remplacera tout firmware qui se trouve sur l’emplacement (slot) où vous souhaitez le télécharger. Il n’y a pas de risque, ne vous inquiétez pas.
+
+Si vous êtes sur Epsilon sans aucune modification, je ne suis pas sûr que le téléchargement d’un thème personnalisé fonctionnera. Vous pouvez demander de l’aide ici: https://discord.gg/omega-community-663420259851567114 . 
+
+Pour tout problème, vous pouvez ouvrir un problème ou un thread dans #help ici : https://discord.gg/omega-community-663420259851567114 [recommandé].
 
 ## Installation
 
