@@ -6,8 +6,9 @@
 
 This is a repository where I upload my custom themes to let you download them on your Upsilon / Omega os.
 
-There is 1 theme:
+There is two themes:
 * Astra Dark (`astra_dark`)
+* Limy Light (`limy_light`)
 
 ## Common knowledge
 
@@ -52,8 +53,9 @@ Since I'm a bit lazy, I'm not writing the tutorial. I may do it one day but not 
 
 Il s’agit d’un dépôt où je télécharge mes thèmes personnalisés pour vous permettre de les télécharger sur votre os Upsilon / Omega.
 
-Il y a un thème :
-* Astra Dark (« astra_dark »)
+Il y a deux thèmes :
+* Astra Dark (`astra_dark`)
+* Limy Light (`limy_light`)
 
 ## Connaissance à avoir
 
